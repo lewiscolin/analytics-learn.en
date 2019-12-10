@@ -29,7 +29,7 @@ To see the beacon, as well as all other information coming to Analytics and othe
 
 **Tracking Server** - If you haven’t started with your Adobe Analytics implementation yet, then you will choose a subdomain for the “.sc.omtrdc.net” tracking server. For example, let’s say that I have an online hat store called “Jim’s Brims.” I can simply set my tracking server to:
 
-“jimsbrims.sc.omtrds.net”.
+“jimsbrims.sc.omtrdc.net”.
 
 **Report Suite** - To find a list of your report suites that have been created, log into Analytics and go to Admin &gt; Report Suites in the top menu to see a list of report suites, including their ID and title.
 
